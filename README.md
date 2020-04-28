@@ -12,6 +12,8 @@
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190014458&orderClick=LAG&Kc=)
 - [알라딘](http://aladin.kr/p/WMPCd)
 
+![읽어보면 안다, 쏘쿨한 엑셀_20190819-입체](https://user-images.githubusercontent.com/21074282/80456639-e92f0b80-8968-11ea-8f12-1a6cde5bd0c3.jpg)
+
 ## 책 소개
 업무를 빠르게 잘하고 싶은 직장인을 위한 쉬운 엑셀 해설서   
 
